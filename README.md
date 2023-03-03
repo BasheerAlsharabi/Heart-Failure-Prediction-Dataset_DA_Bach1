@@ -62,6 +62,8 @@ Attribute Information:
 2-	The most of cases infected with heart disease are men. 
 
 3-	The average age of heart disease is 55.8
+
 4-	The most case have heart disease are cases that have Chest pain of type "Asymptomatic" and ST_Slope of type "flat".
+
 5-	Through comparative between HEART DISEASE statistics and healthy situations, appear the cases heart disease that are have this is diseases : chest pain, Blood pressure, exercise angina, old peak, ST Slope. 
 
